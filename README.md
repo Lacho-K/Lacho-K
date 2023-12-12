@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Angular, C++**
+- 🌱 I’m currently learning **Angular, React, C++**
 
 - 💬 Ask me about **Entity Framework**
 
